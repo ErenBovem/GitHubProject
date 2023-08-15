@@ -8,3 +8,4 @@ version 6 master...
 v7 master : 7 :
 v8 --> changes done by GitHub
 v9 --> : L O C A L  -  C H A N G E S
+v10 --> : R E M O T E _ C H A N G E
